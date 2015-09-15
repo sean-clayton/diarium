@@ -1,0 +1,26 @@
+{
+  "name": "diarium",
+  "version": "1.0.0",
+  "description": "Diary builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean-clayton/diarium.git"
+  },
+  "keywords": [
+    "diary",
+    "journal",
+    "generator",
+    "static"
+  ],
+  "author": "Sean Clayton <sean@seanclayton.me> (https://seanclayton.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sean-clayton/diarium/issues"
+  },
+  "homepage": "https://github.com/sean-clayton/diarium#readme",
+  "dependencies": {}
+}
